@@ -130,3 +130,23 @@ html {
 #faq p {
 	font-size: 20px;
 }
+#contact h1 {
+	font-size: 50px;
+	justify-content: center;
+	text-align: center;
+}
+#contact p {
+	font-size: 30px;
+}
+#contact i {
+	font-size: 300px;
+}
+#contact .bling {
+	margin-left: 100px;
+}
+#contact .insta {
+	margin-left: 100px;
+}
+#contact .google {
+	margin-left: 100px;
+}
